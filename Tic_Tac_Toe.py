@@ -127,4 +127,3 @@ for move in range(9):# this loop is to take the values
         
 if con == False : # checks if the game is tie 
     print('\n\nOOPS!!! \nThis is a tie.....  \nPlay again...')
- #this a member
